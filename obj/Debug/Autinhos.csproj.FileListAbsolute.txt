@@ -1,0 +1,11 @@
+C:\Users\Tinon\source\repos\Autinhos\bin\Debug\Autinhos.exe.config
+C:\Users\Tinon\source\repos\Autinhos\bin\Debug\Autinhos.exe
+C:\Users\Tinon\source\repos\Autinhos\bin\Debug\Autinhos.pdb
+C:\Users\Tinon\source\repos\Autinhos\obj\Debug\Autinhos.csproj.AssemblyReference.cache
+C:\Users\Tinon\source\repos\Autinhos\obj\Debug\Autinhos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tinon\source\repos\Autinhos\obj\Debug\Autinhos.Form1.resources
+C:\Users\Tinon\source\repos\Autinhos\obj\Debug\Autinhos.Properties.Resources.resources
+C:\Users\Tinon\source\repos\Autinhos\obj\Debug\Autinhos.csproj.GenerateResource.cache
+C:\Users\Tinon\source\repos\Autinhos\obj\Debug\Autinhos.csproj.CoreCompileInputs.cache
+C:\Users\Tinon\source\repos\Autinhos\obj\Debug\Autinhos.exe
+C:\Users\Tinon\source\repos\Autinhos\obj\Debug\Autinhos.pdb

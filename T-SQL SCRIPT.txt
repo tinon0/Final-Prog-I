@@ -1,0 +1,55 @@
+create database Vehiculos
+go
+use Vehiculos
+go
+create table Autos(
+patente varchar(50),
+marca int, 
+modelo int,
+color int,
+precio money,
+constraint pk_autos primary key (patente)
+);
+create table Colores(
+id int,
+color varchar(50),
+constraint pk_colores primary key (id)
+);
+create table Marcas(
+id int,
+marca varchar(50),
+constraint pk_marcas primary key (id)
+);
+insert into Marcas 
+values
+    (1, 'Fiat'),
+    (2, 'Ford'),
+    (3, 'Renault'),
+    (4, 'Audi'),
+    (5, 'Volkswagen'),
+    (6, 'Skoda'),
+    (7, 'Pagani'),
+    (8, 'Chevrolet'),
+    (9, 'Hyundai'),
+    (10, 'Peugeot'),
+    (11, 'Citroen'),
+    (12, 'Toyota'),
+    (13, 'Mazda'),
+    (14, 'Mini Cooper'),
+    (15, 'Jeep');
+insert into Colores
+values
+    (1, 'Negro'),
+    (2, 'Gris'),
+    (3, 'Blanco'),
+    (4, 'Rojo'),
+    (5, 'Amarillo'),
+    (6, 'Azul'),
+    (7, 'Naranja'),
+    (8, 'Verde'),
+    (9, 'Lima');
+insert into Autos
+values
+    ('123 ABC', 5, 1998, 3, 1000),
+    ('ACD 153', 6, 1990, 9, 3000),
+    ('AAA 111', 2, 2000, 7, 7000);   
